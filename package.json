@@ -1,0 +1,31 @@
+{
+  "name": "haikufy",
+  "version": "0.0.1",
+  "description": "Identify haikus in text",
+  "main": "./lib/haikufy.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weetbix/haikufy.git"
+  },
+  "keywords": [
+    "haiku",
+    "text",
+    "lexical",
+    "analysis",
+    "poem",
+    "strings"
+  ],
+  "author": "John Hannagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Weetbix/haikufy/issues"
+  },
+  "homepage": "https://github.com/Weetbix/haikufy#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
