@@ -27,5 +27,9 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "hyphenation.en-us": "^0.2.1",
+    "hypher": "^0.2.4"
   }
 }
