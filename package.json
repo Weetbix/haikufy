@@ -1,6 +1,6 @@
 {
   "name": "haikufy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Identify haikus in text",
   "main": "./lib/haikufy.js",
   "scripts": {
