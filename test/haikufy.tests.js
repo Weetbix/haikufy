@@ -79,7 +79,7 @@ describe('Haikus', () => {
             test_cases.forEach( (test, index) => {
                 index++;
                 it(`test case ${index} should not be identified as a haiku`, () => {
-                    expect(haikufy.find(test)).to.be.null;s
+                    expect(haikufy.find(test)).to.be.null;
                 });
             })
         });
