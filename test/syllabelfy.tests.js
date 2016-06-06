@@ -26,6 +26,7 @@ describe('Syllablefy', () => {
         const test_words = [
             [ 'cat', 'cat' ],
             [ 'also', 'al-so' ],
+            [ 'json', 'j-son' ],
             [ 'count', 'count' ],
             [ 'definitely', 'def-i-nite-ly'],
             [ 'exactly', 'ex-act-ly']
